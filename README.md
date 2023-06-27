@@ -38,5 +38,6 @@ Students can download these from the [TempeHS Software Catelogue](https://drive.
 3. [Ardunio Extension](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino) search: vsciot-vscode.vscode-arduino
 
 Read here for how to [install VS Code Extensions](https://code.visualstudio.com/docs/editor/extension-marketplace)
+
 Note: The above extsions will install additional extnsions like C++ and C# these are all normal.
 
