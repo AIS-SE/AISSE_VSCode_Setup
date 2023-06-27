@@ -27,6 +27,7 @@ Students can download these from the [TempeHS Software Catelogue](https://drive.
 
 ### Year 9
 1. [Preview on Web Server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server) search: yuichinukiyama.vscode-preview-server
+2. [Ardunio Extension](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino) search: vsciot-vscode.vscode-arduino
 
 ### Year 10
 1. [Unity Tools](https://marketplace.visualstudio.com/items?itemName=Tobiah.unity-tools) search:Tobiah.unity-tools
@@ -34,6 +35,7 @@ Students can download these from the [TempeHS Software Catelogue](https://drive.
 ### Sofware Engineering
 1. [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) search: ms-python.vscode-pylance
 2. [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) search: ms-python.python
+3. [Ardunio Extension](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino) search: vsciot-vscode.vscode-arduino
 
 Read here for how to [install VS Code Extensions](https://code.visualstudio.com/docs/editor/extension-marketplace)
 Note: The above extsions will install additional extnsions like C++ and C# these are all normal.
