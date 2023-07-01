@@ -24,6 +24,7 @@ Students can download these from the [TempeHS Software Catelogue](https://drive.
 1. [GitHub Code Spaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) search: GitHub.codespaces
 2. [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) search: GitHub.copilot
 3. [Preview on Web Server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server) search: yuichinukiyama.vscode-preview-server
+4. [VSCode PDF](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) search: vscode-pdf
 
 ### Year 9
 1. [Preview on Web Server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server) search: yuichinukiyama.vscode-preview-server
