@@ -1,5 +1,5 @@
 # Visual Studio Code Setup
-Visual Studio Code is the cross platoform coding environment we will use across both stage 5 Computer Technology and Stage 6 SoftwareEngineering. When we use GitHub CodeSpaces in teh cloud we are using the same development environment.
+Visual Studio Code is the cross platform coding environment we will use across both stage 5 Computer Technology and Stage 6 Software Engineering. When we use GitHub CodeSpaces in the cloud, we are using the same development environment.
 
 ## Important Visual Code Settings
 1. File/Auto Save - This will set Visual Studio to save automatically 3 seconds after you stop typing
