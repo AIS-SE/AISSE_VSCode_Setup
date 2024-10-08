@@ -5,6 +5,11 @@
     <td style="border: 0px solid #fff!important;"><div align="center"><img src="VSCode_meme.webp" width="auto" style="margin:auto"/></div></td>
   </tr>
 </table>
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 ## Configuration Files
 
