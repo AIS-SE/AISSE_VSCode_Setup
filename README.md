@@ -1,8 +1,8 @@
 # Visual Studio Code Setup
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
-    <th><p>Visual Studio Code is the cross platform coding environment we will use across both stage 5 Computer Technology and Stage 6 Software Engineering. When we use GitHub CodeSpaces in the cloud, we are using the same development environment.</p></th>
-    <th><div align="center"><img src="VSCode_meme.webp" width="auto" style="margin:auto"/></div></th>
+    <td><p>Visual Studio Code is the cross platform coding environment we will use across both stage 5 Computer Technology and Stage 6 Software Engineering. When we use GitHub CodeSpaces in the cloud, we are using the same development environment.</p></td>
+    <td><div align="center"><img src="VSCode_meme.webp" width="auto" style="margin:auto"/></div></td>
   </tr>
 </table>
 
