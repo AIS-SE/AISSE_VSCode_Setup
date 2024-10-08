@@ -6,7 +6,10 @@
   </tr>
 </table>
 <style>
-td, th {
+table {
+    border-collapse: collapse!important;
+}
+table, th, td {
    border: none!important;
 }
 </style>
