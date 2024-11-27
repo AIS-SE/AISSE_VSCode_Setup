@@ -1,4 +1,5 @@
 # Tempe High School VSCode Setup
+
 <table cellspacing="0" cellpadding="0" style="border: none!important;">
   <tr cellspacing="0" cellpadding="0" style="border: none!important;">
     <td style="border: none!important;"><p>Visual Studio Code is the cross-platform coding environment we will use across both Stage 5 Computer Technology and Stage 6 Software Engineering. When we use GitHub CodeSpaces in the cloud, we are using the same development environment.</p>
@@ -25,5 +26,5 @@
 - [Python](/Profiles/Python_Flask_PWA_Development.code-profile) including FLASK
 - [Unity](/Profiles/Unity_Development.code-profile)
 
-> [!IMPORTANT]
+> [!Important]
 > All profiles require the _Default_ profile as the base profile.
