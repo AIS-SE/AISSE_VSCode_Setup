@@ -32,7 +32,9 @@
 ### Other extensions
 
 - [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+- [JetBrains Mono. A typeface for developers​\_](https://marketplace.visualstudio.com/items?itemName=NarasimaPandiyan.jetbrainsmono)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 - [Icons](https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
