@@ -28,3 +28,11 @@
 
 > [!Important]
 > All profiles require the _Default_ profile as the base profile.
+
+### Other extensions
+
+- [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+- [Icons](https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
