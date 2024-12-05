@@ -10,8 +10,10 @@
 
 ## Configuration Files
 
-- [JS_HTML_CSS](\JS_HTML_CSS) configuration files
+- [Node.JS for JS/HTML/CSS PWA development](\JS_HTML_CSS) configuration files
 - [Python](\Python) configuration files
+- [Python Flask for Python PWA Development](\Python_Flask) configuration files
+- [Jupyter Notebook for Machine Learning](\Jupyter_Notebook) configuration files
 
 ## Important Visual Code Settings
 

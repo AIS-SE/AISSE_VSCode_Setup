@@ -1,12 +1,19 @@
 {
-  "name": "node.JS with HTML, CSS & JS",
+  "name": "Python Flask Development Container",
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "hostRequirements": {
     "cpus": 4
   },
   "waitFor": "onCreateCommand",
-  "updateContentCommand": "npm install -r requirements.txt",
+  "updateContentCommand": "pip install -r requirements.txt",
   "postCreateCommand": "",
+  "postAttachCommand": {},
+  "portsAttributes": {
+    "5000": {
+      "label": "Application",
+      "onAutoForward": "openPreview"
+    }
+  },
   "customizations": {
     "vscode": {
       "settings": {
@@ -29,24 +36,23 @@
         "yy0931.vscode-sqlite3-editor",
         "medo64.render-crlf",
         "ecmel.vscode-html-css",
-        "ms-vscode.js-debug",
+        "ms-python.python",
         "esbenp.prettier-vscode",
-        "miramac.vscode-exec-node",
         "oderwat.indent-rainbow",
         "ritwickdey.LiveServer",
         "tomoki1207.pdf",
+        "ms-vscode-remote.remote-containers",
+        "ms-vscode-remote.remote-wsl",
         "GitHub.codespaces",
+        "ms-python.debugpy",
+        "ms-python.vscode-pylance",
         "ms-vscode-remote.remote-wsl",
         "ms-azuretools.vscode-docker",
         "yahyabatulu.vscode-markdown-alert",
         "bierner.markdown-preview-github-styles",
-        "mechatroner.rainbow-csv"
+        "mechatroner.rainbow-csv",
+        "ms-python.pylint"
       ]
-    }
-  },
-  "portsAttributes": {
-    "5000": {
-      "label": "Application"
     }
   },
   "forwardPorts": [5000]
