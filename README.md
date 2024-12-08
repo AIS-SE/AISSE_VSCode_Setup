@@ -14,6 +14,7 @@
 - [Python](\Python) configuration files
 - [Python Flask for Python PWA Development](\Python_Flask) configuration files
 - [Jupyter Notebook for Machine Learning](\Jupyter_Notebook) configuration files
+- [MicroPython for Raspberry Pi Pico/Pico 2](\MicroPython)
 
 ## Important Visual Code Settings
 
