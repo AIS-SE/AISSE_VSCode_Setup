@@ -17,6 +17,7 @@
     "paulober.pico-w-go",
     "ms-vscode.vscode-serial-monitor",
     "badlogicgames.serial-plotter",
-    "visualstudioexptteam.vscodeintellicode"
+    "donjayamanne.python-environment-manager",
+    "bierner.markdown-mermaid"
   ]
 }

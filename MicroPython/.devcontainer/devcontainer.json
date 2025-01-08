@@ -42,7 +42,9 @@
         "pietrocz.close-all-serial-ports",
         "paulober.pico-w-go",
         "ms-vscode.vscode-serial-monitor",
-        "badlogicgames.serial-plotter"
+        "badlogicgames.serial-plotter",
+        "donjayamanne.python-environment-manager",
+        "bierner.markdown-mermaid"
       ]
     }
   }
