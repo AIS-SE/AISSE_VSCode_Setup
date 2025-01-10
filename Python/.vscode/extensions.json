@@ -12,7 +12,7 @@
     "bierner.markdown-preview-github-styles",
     "mechatroner.rainbow-csv",
     "ms-python.pylint",
-    "donjayamanne.python-environment-manager",
-    "bierner.markdown-mermaid"
+    "bierner.markdown-mermaid",
+    "ms-python.vscode-python-envs"
   ]
 }
