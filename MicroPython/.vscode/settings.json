@@ -20,6 +20,9 @@
   "python.terminal.activateEnvironment": false,
   "micropico.openOnStart": true,
   "python.analysis.typeshedPaths": ["~/.micropico-stubs/included"],
-  "python.analysis.extraPaths": ["~/.micropico-stubs/included"],
-  "micropico.softResetAfterUpload": true
+  "python.analysis.extraPaths": [
+    "~/.micropico-stubs/included",
+    "./examples/smooth_"
+  ],
+  "micropico.syncFolder": "project"
 }
