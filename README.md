@@ -19,6 +19,7 @@
 - [Jupyter Notebook for Machine Learning](https://github.com/TempeHS/TempeHS_Jupyter-Notebook_DevContainer) configuration files
 - [MicroPython for Raspberry Pi Pico/Pico 2](https://github.com/TempeHS/TempeHS_MicroPython_DevContainer) configuration files
 - [Unity Development](https://github.com/TempeHS/TempeHS_Unity_DevContainer) configuration files
+- [Python & node.JS](https://github.com/TempeHS/TempeHS_Python-nodeJS-DevContainer) configuration files
 
 ## Important Visual Code Settings
 
