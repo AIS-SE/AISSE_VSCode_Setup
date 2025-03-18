@@ -13,14 +13,15 @@
 > [!Note]
 > TempeHS Students can choose any of these as a template when they create a new repository in GitHub.
 
-- [Node.JS for JS/HTML/CSS PWA development](https://github.com/TempeHS/TempeHS_HTML-CSS-JS-nodeJS-DevContainer) configuration files
-- [Python](https://github.com/TempeHS/TempeHS_Python_DevContainer) configuration files
-- [Python Flask for Python PWA Development](https://github.com/TempeHS/TempeHS_Python-Flask_DevContainer) configuration files
-- [Jupyter Notebook for Machine Learning](https://github.com/TempeHS/TempeHS_Jupyter-Notebook_DevContainer) configuration files
-- [MicroPython for Raspberry Pi Pico/Pico 2](https://github.com/TempeHS/TempeHS_MicroPython_DevContainer) configuration files
-- [Unity Development](https://github.com/TempeHS/TempeHS_Unity_DevContainer) configuration files
-- [Python & node.JS](https://github.com/TempeHS/TempeHS_Python-nodeJS-DevContainer) configuration files
+- [Node.JS for JS/HTML/CSS PWA development](https://github.com/TempeHS/TempeHS_HTML-CSS-JS-nodeJS-DevContainer) configuration files.
+- [Python](https://github.com/TempeHS/TempeHS_Python_DevContainer) configuration files.
+- [Python Flask for Python PWA Development](https://github.com/TempeHS/TempeHS_Python-Flask_DevContainer) configuration files.
+- [Jupyter Notebook for Machine Learning](https://github.com/TempeHS/TempeHS_Jupyter-Notebook_DevContainer) configuration files.
+- [MicroPython for Raspberry Pi Pico/Pico 2](https://github.com/TempeHS/TempeHS_MicroPython_DevContainer) library, docs and demos.
+- [Unity Development](https://github.com/TempeHS/TempeHS_Unity_DevContainer) configuration files.
+- [Python & node.JS](https://github.com/TempeHS/TempeHS_Python-nodeJS-DevContainer) configuration files.
 - [PySimpleGUI for Python Development](https://github.com/TempeHS/PySimpleGUI-4-GPL3v) library, docs and demos.
+- [Python Exam/Test Extension Restricted DevContainer](https://github.com/TempeHS/Python_DevContainer_Examination_Environment) configuration files.
 
 ## Important Visual Code Settings
 
