@@ -20,6 +20,7 @@
 - [MicroPython for Raspberry Pi Pico/Pico 2](https://github.com/TempeHS/TempeHS_MicroPython_DevContainer) configuration files
 - [Unity Development](https://github.com/TempeHS/TempeHS_Unity_DevContainer) configuration files
 - [Python & node.JS](https://github.com/TempeHS/TempeHS_Python-nodeJS-DevContainer) configuration files
+- [PySimpleGUI for Python Development](https://github.com/TempeHS/PySimpleGUI-4-GPL3v) library, docs and demos.
 
 ## Important Visual Code Settings
 
