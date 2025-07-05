@@ -13,6 +13,7 @@
 > [!Note]
 > TempeHS Students can choose any of these as a template when they create a new repository in GitHub.
 
+- [Arduino](https://github.com/TempeHS/TempeHS_Arduino_DevContainer) configuration files for VSCode Development.
 - [Node.JS for JS/HTML/CSS PWA development](https://github.com/TempeHS/TempeHS_HTML-CSS-JS-nodeJS-DevContainer) configuration files.
 - [Python](https://github.com/TempeHS/TempeHS_Python_DevContainer) configuration files.
 - [Python Flask for Python PWA Development](https://github.com/TempeHS/TempeHS_Python-Flask_DevContainer) configuration files.
