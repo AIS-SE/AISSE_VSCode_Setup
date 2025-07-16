@@ -1,8 +1,8 @@
-# Tempe High School VSCode Setup
+# AISSE VSCode Setup
 
 <table cellspacing="0" cellpadding="0" style="border: none!important;">
   <tr cellspacing="0" cellpadding="0" style="border: none!important;">
-    <td style="border: none!important;"><p>Visual Studio Code is the cross-platform coding environment we will use across both Stage 5 Computer Technology and Stage 6 Software Engineering. When we use GitHub CodeSpaces in the cloud, we are using a virtualised version of Visual Studio Code.</p>
+    <td style="border: none!important;"><p>Visual Studio Code is the cross-platform coding environment we will use across both IGCSE Computer Science and HSC Software Engineering. When we use GitHub CodeSpaces in the cloud, we are using a virtualised version of Visual Studio Code.</p>
     <p>This repo contains the example profiles to improve your development experience and links to templates for the main language environments we will use.</p></td>
     <td style="border: 0px solid #fff!important;"><div align="center"><img src="VSCode_meme.webp" width="auto" style="margin:auto"/></div></td>
   </tr>
@@ -11,7 +11,7 @@
 ## Configuration Files
 
 > [!Note]
-> TempeHS Students can choose any of these as a template when they create a new repository in GitHub.
+> AISSE Students can choose any of these as a template when they create a new repository in GitHub.
 
 - [Arduino](https://github.com/TempeHS/TempeHS_Arduino_DevContainer) configuration files for VSCode Development.
 - [Node.JS for JS/HTML/CSS PWA development](https://github.com/TempeHS/TempeHS_HTML-CSS-JS-nodeJS-DevContainer) configuration files.
