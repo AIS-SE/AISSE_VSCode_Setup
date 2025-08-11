@@ -7,6 +7,7 @@
     <td style="border: 0px solid #fff!important;"><div align="center"><img src="VSCode_meme.webp" width="auto" style="margin:auto"/></div></td>
   </tr>
 </table>
+Installation link: https://code.visualstudio.com/download
 
 ## Configuration Files
 
